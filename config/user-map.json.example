@@ -1,0 +1,15 @@
+{
+  "$schema": "./user-map.schema.json",
+  "mappings": [
+    {
+      "slackUserId": "U01234567",
+      "slackUserName": "john.doe",
+      "githubUsername": "johndoe"
+    },
+    {
+      "slackUserId": "U09876543",
+      "slackUserName": "jane.smith",
+      "githubUsername": "janesmith"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "./channel-map.schema.json",
+  "mappings": [
+    {
+      "channelId": "C01234567",
+      "channelName": "project-alpha",
+      "repositoryOwner": "your-org",
+      "repositoryName": "project-alpha",
+      "projectNumber": 1
+    },
+    {
+      "channelId": "C09876543",
+      "channelName": "project-beta",
+      "repositoryOwner": "your-org",
+      "repositoryName": "project-beta",
+      "projectNumber": 2
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+name = "slack-worker"
+main = "src/index.ts"
+compatibility_date = "2024-01-15"
+
+# Environment variables (set via `wrangler secret put <KEY>`)
+# GITHUB_TOKEN
+# SLACK_BOT_TOKEN
+# SLACK_SIGNING_SECRET
+# DEFAULT_GITHUB_ORG
+
+[vars]
+# Non-secret environment variables can be defined here
+# ENVIRONMENT = "development"
